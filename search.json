@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "R. Carlos Lamas CV",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "Graduate Financial Economics Student Minor In Data Science\n\nLinkedIn Profile\n\n\n\nSeeking Employment in Investment Research\n\n\nDeveloped a strong understanding of financial economics that required analytical and quantitative skills.\n\n\n\nAlternative Investing, Real Estate Finance, Algorithmic Trading.\n\n\n\n\n2020 - 2024 BYU-I, Bachelor Degree in Financial Economics\n\n\n\nJune 2021 - August 2023 Etrade Financial • Resolved customer’s problems dealing with issues related to stock and options trade • Offered guidance on utilizing E*TRADE trading platforms for technical analysis, charts, executing trades • Facilitated opening accounts for a variety of clients, including day traders to high-net-worth individuals • Educated customer on a general retirement contribution, Roth conversions, and recharacterizations • Reviewed suspicious activity of money laundering. Identity theft and account takeovers • Guided customers in processing bank wires and facilitating account transfers internally and externally\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "R. Carlos Lamas CV",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Seeking Employment in Investment Research\n\n\nDeveloped a strong understanding of financial economics that required analytical and quantitative skills.\n\n\n\nAlternative Investing, Real Estate Finance, Algorithmic Trading."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "R. Carlos Lamas CV",
-    "section": "",
-    "text": "2020 - 2024 BYU-I, Bachelor Degree in Financial Economics"
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "R. Carlos Lamas CV",
-    "section": "",
-    "text": "June 2021 - August 2023 Etrade Financial • Resolved customer’s problems dealing with issues related to stock and options trade • Offered guidance on utilizing E*TRADE trading platforms for technical analysis, charts, executing trades • Facilitated opening accounts for a variety of clients, including day traders to high-net-worth individuals • Educated customer on a general retirement contribution, Roth conversions, and recharacterizations • Reviewed suspicious activity of money laundering. Identity theft and account takeovers • Guided customers in processing bank wires and facilitating account transfers internally and externally"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "R. Carlos Lamas CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "R. Carlos Lamas CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "exploration.html",
@@ -65,6 +23,55 @@
   {
     "objectID": "exploration.html#title-2-header",
     "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -82,6 +89,20 @@
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competition.html",
@@ -112,66 +133,38 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "R. Carlos Lamas CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Graduate Financial Economics Student Minor In Data Science\n\nLinkedIn Profile\n\n\n\nSeeking Employment in Investment Research\n\n\nDeveloped a strong understanding of financial economics that required analytical and quantitative skills.\n\n\n\nAlternative Investing, Real Estate Finance, Algorithmic Trading.\n\n\n\n\n2020 - 2024 BYU-I, Bachelor Degree in Financial Economics\n\n\n\nJune 2021 - August 2023 Etrade Financial • Resolved customer’s problems dealing with issues related to stock and options trade • Offered guidance on utilizing E*TRADE trading platforms for technical analysis, charts, executing trades • Facilitated opening accounts for a variety of clients, including day traders to high-net-worth individuals • Educated customer on a general retirement contribution, Roth conversions, and recharacterizations • Reviewed suspicious activity of money laundering. Identity theft and account takeovers • Guided customers in processing bank wires and facilitating account transfers internally and externally\n\n\n\n• Data Wrangling and Visualization: Preformed data analysis by cleaning and transforming data sets • Problem-Solving: Developed analytic and critical thinking skills to break down complex problems\n• Data Visualization: Visualization skills in R, power point and Excel • Programming: Strong programming skills in R, python • Certifications: Bloomberg Certification, Harvard Excel certification in Excel • Languages: Fluent in Spanish • Interests: Creating personal investment models, trading options, cooking, serving in the church, following sports • Work Eligibility: Eligible to work in the U.S. with no restrictions\n\n\n• Leadership: Activity sought out team members at ETRADE who needed help with clients’ inquiries related to trading concepts, tax issues, and fraud-related questions. • License: Previously licensed with Series 7, Series 63, and SIE through ETRADE"
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "R. Carlos Lamas CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Seeking Employment in Investment Research\n\n\nDeveloped a strong understanding of financial economics that required analytical and quantitative skills.\n\n\n\nAlternative Investing, Real Estate Finance, Algorithmic Trading."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "R. Carlos Lamas CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "2020 - 2024 BYU-I, Bachelor Degree in Financial Economics"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "R. Carlos Lamas CV",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "June 2021 - August 2023 Etrade Financial • Resolved customer’s problems dealing with issues related to stock and options trade • Offered guidance on utilizing E*TRADE trading platforms for technical analysis, charts, executing trades • Facilitated opening accounts for a variety of clients, including day traders to high-net-worth individuals • Educated customer on a general retirement contribution, Roth conversions, and recharacterizations • Reviewed suspicious activity of money laundering. Identity theft and account takeovers • Guided customers in processing bank wires and facilitating account transfers internally and externally"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "resume.html#additional-information",
+    "href": "resume.html#additional-information",
+    "title": "R. Carlos Lamas CV",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "• Data Wrangling and Visualization: Preformed data analysis by cleaning and transforming data sets • Problem-Solving: Developed analytic and critical thinking skills to break down complex problems\n• Data Visualization: Visualization skills in R, power point and Excel • Programming: Strong programming skills in R, python • Certifications: Bloomberg Certification, Harvard Excel certification in Excel • Languages: Fluent in Spanish • Interests: Creating personal investment models, trading options, cooking, serving in the church, following sports • Work Eligibility: Eligible to work in the U.S. with no restrictions\n\n\n• Leadership: Activity sought out team members at ETRADE who needed help with clients’ inquiries related to trading concepts, tax issues, and fraud-related questions. • License: Previously licensed with Series 7, Series 63, and SIE through ETRADE"
   }
 ]
